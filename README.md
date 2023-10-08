@@ -1,6 +1,9 @@
 # Road-Accident-Analysis
 This project aims to analyze and visualize the data on road accidents in different countries and regions, using popular tools such as Power BI, Tableau, SQL, and Excel. The data source is the [Global Status Report on Road Safety 2018] published by the World Health Organization (WHO).<br><br>
+![sign-2864889_1280](https://github.com/sherifRoshdy/Road-Accident-Analysis/assets/77529268/ffc812b1-447a-4f78-898b-5934bc3b279a)
 
+
+<br><br>
 # Data Extraction, Transformation, and Loading (ETL)
 The first step of this project is to extract, transform, and load the data using SQL queries. The data is stored in a relational database with the following tables:
 
