@@ -1,5 +1,5 @@
 # Road-Accident-Analysis
-This project aims to analyze and visualize the data on road accidents in different countries and regions, using popular tools such as Power BI, Tableau, SQL, and Excel. The data source is the [Global Status Report on Road Safety 2018] published by the World Health Organization (WHO).<br><br>
+This project aims to analyze and visualize road accident data from various countries and regions using popular tools like Power BI, SQL, and Excel. The data is sourced from the World Health Organization's (WHO) [Global Status Report on Road Safety 2018].<br><br>
 
 ![sign-2864889_1280](https://github.com/sherifRoshdy/Road-Accident-Analysis/assets/77529268/03a39ffe-caba-4ae5-bdc9-245adad862d3)
 
