@@ -1,10 +1,7 @@
 # Road-Accident-Analysis
-This project aims to analyze and visualize road accident data from various countries and regions using popular tools like Power BI, SQL, and Excel. The data is sourced from the World Health Organization's (WHO) [Global Status Report on Road Safety 2018].<br><br>
 
-![sign-2864889_1280](https://github.com/sherifRoshdy/Road-Accident-Analysis/assets/77529268/03a39ffe-caba-4ae5-bdc9-245adad862d3)
+## Analyze road accident patterns and contributing factors using a Power BI dashboard. Employed DAX to calculate key metrics like accident frequency, average casualties, and severity rate for a data-driven road safety assessment.
 
-
-<br><br>
 # Data Extraction, Transformation, and Loading (ETL)
 The first step of this project is to extract, transform, and load the data using SQL queries. The data is stored in a relational database with the following tables:
 
